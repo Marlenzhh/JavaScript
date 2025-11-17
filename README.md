@@ -14,3 +14,9 @@ Ich hatte am Anfang keinen Plan wie ich nun anfangen oder vorgehen sollte. Spät
 Das Ziffernblatt sieht nun schief aus und die Zeitangabe stimmt nicht mit der aktuellen Zeit überein. 
 
 Gerade bin ich am Ende meiner Nerven..jedoch war diese Erfahrung lehrreich. 
+
+*Beschreibung:*
+
+Noch zur Beschreibung des Projektes..
+Das Projekt besteht hauptsächlich aus einer Analogen Uhr, welche zeitgleich tickt. Oder so eine Uhr hätte es werden sollen. Meine Uhr hat eine komplett andere Zeit.
+Ich habe mein bestes versucht.
